@@ -1,0 +1,1 @@
+# angular-map-model
